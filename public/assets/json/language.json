@@ -1,0 +1,30 @@
+{
+    "META": {
+        "KEYWORDS": "",
+        "DESCRIPTION": "",
+        "TITLE": "Ticket8",
+        "APP_VERSION": "0.1.0"
+    },
+    "ERRORS": {
+        "UNAUTHORIZED": {
+            "TITLE": "خطای عدم اهراز",
+            "DESCRIPTION": "تلاش برای ورود به اپ",
+            "BTN": "لاگین"
+        },
+        "INTERNAL_SERVER": {
+            "TITLE": "خطای سرور",
+            "DESCRIPTION": "با پشتیبانی تماس بگیرید",
+            "BTN": "تماس"
+        },
+        "NETWORK_ERROR": {
+            "TITLE": "خطای اینترنت",
+            "DESCRIPTION": "اینترنت خود را چک کنید",
+            "BTN": "امتحان اینترنت"
+        },
+        "NOT_FOUND": {
+            "TITLE": "صفحه مورد نظر یافت نشد",
+            "DESCRIPTION": "خطای ۴۰۴",
+            "BTN": "رفرش صفحه"
+        }
+    }
+}

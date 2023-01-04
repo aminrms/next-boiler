@@ -1,0 +1,28 @@
+.center-of-anywhere {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.bottom-of-anywhere {
+  position: absolute;
+  bottom: 10px;
+}
+
+.top-of-anywhere {
+  position: absolute;
+  top: 0;
+}
+
+.heavy-shadow {
+  -webkit-box-shadow: 1px 3px 15px 0px rgba(0, 0, 0, 0.55) !important;
+  box-shadow: 1px 3px 15px 0px rgba(0, 0, 0, 0.55) !important;
+}
+
+.light-shadow {
+  -webkit-box-shadow: 0px 3px 5px -1px rgb(0 0 0 / 20%),
+    0px 6px 10px 0px rgb(0 0 0 / 14%), 0px 1px 18px 0px rgb(0 0 0 / 12%) !important;
+  box-shadow: 0px 3px 5px -1px rgb(0 0 0 / 20%),
+    0px 6px 10px 0px rgb(0 0 0 / 14%), 0px 1px 18px 0px rgb(0 0 0 / 12%) !important;
+}
