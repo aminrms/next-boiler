@@ -5,10 +5,10 @@ const withPWA = require('next-pwa')({
 module.exports = withPWA({
   reactStrictMode: true,
   images: {
-    domains: ["ticket8.com"],
+    domains: ["google.com"],
   },
   env: {
-    backendAddress: "https://ticket8.com",
-    socketAddress: "wss://ticket8.com:8080",
+    backendAddress: "https://google.com",
+    socketAddress: "wss://google.com:8080",
   },
 })
